@@ -1,6 +1,6 @@
 # Salut 👋
 
-🛠️ **Développeur web junior** orienté **backend**, j'ai pour objectif de me former pour devenir **DevOps**.  
+🛠️ **Développeur web junior** orienté **backend**, j'ai pour objectif de me former pour monter en **compétence**.  
 
 
 ## 🧰 Langages & Outils
