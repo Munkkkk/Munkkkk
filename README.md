@@ -41,15 +41,6 @@
 </p>
 
 
-## 🎯 Objectif
-
-Mon but : **devenir un développeur autonome** capable de gérer des projets web de A à Z.  
-Je suis à fond dans l’apprentissage des **meilleures pratiques** de développement, l'**automatisation des déploiements**, et la construction de solutions **scalables**.
-
-## 📦 Mes projets
-
-Je travaille actuellement sur des projets orientés **backend** et **DevOps**, je cherche à prendre en compétence à travers mon **apprentissage seul**, mais je suis aussi à la recherche d'une **entreprise** pour apprendre auprès d'une vraie équipe tech.
-
 ---
 
 📫 **Contact** : [ludwig.marais@outlook.fr](mailto:ludwig.marais@outlook.fr)
