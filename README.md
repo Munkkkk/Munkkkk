@@ -1,6 +1,6 @@
 # Salut 👋
 
-🛠️ **Développeur web junior** orienté **backend**, je cherche actuellement une entreprise pour monter en **compétence**.  
+🛠️ **Développeur web junior. 
 
 
 ## 🧰 Langages & Outils
